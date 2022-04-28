@@ -9,9 +9,9 @@
   },
   "testnet": {
     "clicker": {
-      "codeId": "68008",
+      "codeId": "68093",
       "contractAddresses": {
-        "default": "terra1ln3em9nmr5fvlgnqnszaegsrxt0nf7x24uvnuk"
+        "default": "terra1duyquuy2v23gca0g7kxx09rvhr56c4v3ag533p"
       }
     }
   }
