@@ -13,7 +13,7 @@ const Leaderboard = () => {
     setLoading(true);
     const fetchScores = async () => {
       if (connectedWallet && connectedWallet.network.name === "testnet") {
-        return (await query.getScores(connectedWallet)).scores;
+        return (await query.getScores(connectedWallet)).score;
       }
     };
 
